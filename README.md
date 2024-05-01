@@ -29,3 +29,17 @@
 📧 Quer colaborar em um projeto ou apenas bater um papo? Mande um e-mail para sarahalves20032006@gmail.com
 
 ### **Valeu Por Chegar Até Aqui! Vamos juntos descobrir o Mundo dos Dados e da Programação! 😊✨**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/seunome) [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:seu.email@email.com)
+
+### **Desempenho e Dados do Perfil**
+
+#### Linguagens de Programação
+
+[![Python](https://img.shields.io/badge/Python-Expert-green?style=for-the-badge&logo=python)](#) [![C++](https://img.shields.io/badge/C++-Intermediate-yellow?style=for-the-badge&logo=c%2B%2B)](#) [![SQL](https://img.shields.io/badge/SQL-Advanced-blue?style=for-the-badge&logo=sql)](#)
+
+#### Estatísticas de Perfil
+
+- **Projetos Concluídos:** 10
+- **Experiência em Programação:** 2 anos
+- **Certificações:** Certificado em Análise de Dados pela Udemy
