@@ -8,13 +8,13 @@
 
 🌟 Com habilidades firmes em Python, C++, e SQL, e adoro explorar bibliotecas como Pandas, Matplotlib e Numpy.
 
-🚀 Atualmente, estou caçando novos desafios e aventuras para expandir meus horizontes em Machine Learning e Inteligência Artificial.
+🚀 Atualmente, estou em busca de novos desafios e aventuras para expandir meus horizontes em Machine Learning e Inteligência Artificial.
 
 ### **O Que Esperar Aqui?**
 
 🔍 Projetos que misturam Matemática, Códigos e uma pitada de criatividade.
 
-💡 Visualizações de dados, análises divertidas e insights que vão te surpreender, tudo feito com muito amor e uma dose extra de entusiasmo.
+💡 Visualizações de dados, análises detalhadas, fornecendo insights perspicazes sobre os projetos realizados.
 
 🌊 Atualmente, estou focada em explorar o vasto mundo dos dados, envolvendo técnicas de Machine Learning e IA para resolver problemas e descobrir padrões interessantes.
 
