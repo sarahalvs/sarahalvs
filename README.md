@@ -6,7 +6,7 @@
 
 🎓 Uma estudante de Matemática Aplicada e Computacional que decidiu dar um mergulho profundo no mundo dos códigos e da ciência de dados.
 
-🌟 Com habilidades firmes em Python, C++, e SQL, e adoro explorar biblioteas como Pandas, Matplotlib e Numpy.
+🌟 Com habilidades firmes em Python, C++, e SQL, e adoro explorar bibliotecas como Pandas, Matplotlib e Numpy.
 
 🚀 Atualmente, estou caçando novos desafios e aventuras para expandir meus horizontes em Machine Learning e Inteligência Artificial.
 
