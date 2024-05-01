@@ -32,5 +32,5 @@
 
 #### Linguagens de Programação
 
-[![Python](https://img.shields.io/badge/Python-Expert-green?style=for-the-badge&logo=python)](#) [![C++](https://img.shields.io/badge/C++-Intermediate-yellow?style=for-the-badge&logo=c%2B%2B)](#) [![SQL](https://img.shields.io/badge/SQL-Advanced-blue?style=for-the-badge&logo=sql)](#)
+[![Python](https://img.shields.io/badge/Python-Expert-green?style=for-the-badge&logo=python)](#) [![C++](https://img.shields.io/badge/C++-Intermediate-yellow?style=for-the-badge&logo=c%2B%2B)](#) [![SQL](https://img.shields.io/badge/SQL-Advanced-blue?style=for-the-badge&logo=sql)](#) [![HTML](https://img.shields.io/badge/HTML-Intermediate-orange?style=for-the-badge&logo=html5)](#) [![CSS](https://img.shields.io/badge/CSS-Intermediate-blue?style=for-the-badge&logo=css3)](#) [![JavaScript](https://img.shields.io/badge/JavaScript-Beginner-yellow?style=for-the-badge&logo=javascript)](#)
 
