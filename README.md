@@ -26,7 +26,7 @@
 
 🚀 Vamos trocar ideias e compartilhar conhecimentos: 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/seunome) [![Email](https://img.shields.io/badge/Email-grain?style=for-the-badge&logo=gmail)](mailto:seu.email@email.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/seunome) [![Email](https://img.shields.io/badge/Email-gray?style=for-the-badge&logo=gmail)](mailto:seu.email@email.com)
 
 ### **Valeu Por Chegar Até Aqui! Vamos juntos descobrir o Mundo dos Dados e da Programação! 😊✨**
 
