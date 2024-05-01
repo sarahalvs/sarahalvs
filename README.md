@@ -30,7 +30,7 @@
 
 ### **Valeu Por Chegar Até Aqui! Vamos juntos descobrir o Mundo dos Dados e da Programação! 😊✨**
 
-#### Linguagens de Programação
+#### Ferramentas e Linguagens:
 
-[![Python](https://img.shields.io/badge/Python-green?style=for-the-badge&logo=python)](#) [![C++](https://img.shields.io/badge/C++-yellow?style=for-the-badge&logo=c%2B%2B)](#) [![SQL](https://img.shields.io/badge/SQL-blue?style=for-the-badge&logo=sql)](#) [![HTML](https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5)](#) [![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3)](#) [![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)](#)
+[![Python](https://img.shields.io/badge/Python-green?style=for-the-badge&logo=python)](#) [![SQL](https://img.shields.io/badge/SQL-blue?style=for-the-badge&logo=sql)](#) [![Power BI](https://img.shields.io/badge/Power%20BI-yellow?style=for-the-badge&logo=powerbi)](#)
 
