@@ -25,6 +25,7 @@
 ### **Conecte-se Comigo!**
 
 🚀 Vamos trocar ideias e compartilhar conhecimento no LinkedIn: 
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/seunome) [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:seu.email@email.com)
 
 ### **Valeu Por Chegar Até Aqui! Vamos juntos descobrir o Mundo dos Dados e da Programação! 😊✨**
