@@ -1,7 +1,5 @@
 # 👩‍💻 Olá, Mundo! Eu Sou a Sarah! 🚀
 
-## Bem-vindos ao Meu Cantinho Matemágico! 🎩✨
-
 ### **Quem Sou Eu?**
 
 🎓 Uma estudante de Matemática Aplicada e Computacional que decidiu dar um mergulho profundo no mundo dos códigos e da ciência de dados.
