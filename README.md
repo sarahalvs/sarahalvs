@@ -16,8 +16,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/seunome) [![Email](https://img.shields.io/badge/Email-gray?style=for-the-badge&logo=gmail)](mailto:seu.email@email.com)
 
-### **Valeu Por Chegar Até Aqui! Vamos juntos descobrir o Mundo dos Dados e da Programação! 😊✨**
-
 #### Ferramentas e Linguagens:
 
 [![Python](https://img.shields.io/badge/Python-green?style=for-the-badge&logo=python)](#) [![SQL](https://img.shields.io/badge/SQL-blue?style=for-the-badge&logo=sql)](#) [![Power BI](https://img.shields.io/badge/Power%20BI-yellow?style=for-the-badge&logo=powerbi)](#)
